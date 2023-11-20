@@ -19,3 +19,8 @@ palabra2:	.word 0x15			# numero en hexadecimal
 # ahora, estas palabras 1 y 2, se encuentran en estas direcciones de memoria debido a 
 # que por defecto se empieza con el valor 0x10010000 y va en aumento
 # y este es el caso de que aumenta 4 en 4, debido a que son palabras de 32bits
+
+# cuestion 1.3:
+
+# los valores de las etiquetas son las direcciones de memoria, ya que justamente
+# estas etiquetas son la manera de representas las direcciones de manera simbolica
