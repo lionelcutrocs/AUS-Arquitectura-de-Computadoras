@@ -1,1 +1,1 @@
-# AUS-Arquitectura-deComputadoras-I
+# AUS-Arquitectura-de-Computadoras-I
