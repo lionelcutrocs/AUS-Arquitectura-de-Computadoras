@@ -1,7 +1,6 @@
 .data						# comienza la zona de datos como no tiene direccion usa 0x10010000 (por defecto)
 
-																		# Valor dato hexadecimal
-
+																		
 palabra1:	.word 15				# numero en decimal (base 10)					
 palabra2:	.word 0x15			# numero en hexadecimal						
 
