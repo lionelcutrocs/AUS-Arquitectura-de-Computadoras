@@ -2,7 +2,7 @@
 
 																		# Valor dato hexadecimal
 
-palabra1:	.word 15				# numero en decimal (base 10)					
+palabra1:	.word 15			# numero en decimal (base 10)					
 palabra2:	.word 0x15			# numero en hexadecimal						
 
 
